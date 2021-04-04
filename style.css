@@ -1,0 +1,31 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travel_div h4,.travel_div p{
+    margin: 50px
+}
+.glyphicon-chevron-down{
+    float: right;
+}
+.movie_head{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px
+}
+.list-group-item{
+    margin: 20px;
+}
